@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\VisualBasic Lab1\bin\Debug\VisualBasic Lab1.exe.config
+C:\Users\ADMIN\source\repos\VisualBasic Lab1\bin\Debug\VisualBasic Lab1.exe
+C:\Users\ADMIN\source\repos\VisualBasic Lab1\bin\Debug\VisualBasic Lab1.pdb
+C:\Users\ADMIN\source\repos\VisualBasic Lab1\bin\Debug\VisualBasic Lab1.xml
+C:\Users\ADMIN\source\repos\VisualBasic Lab1\obj\Debug\VisualBasic Lab1.vbproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\VisualBasic Lab1\obj\Debug\VisualBasic_Lab1.Form1.resources
+C:\Users\ADMIN\source\repos\VisualBasic Lab1\obj\Debug\VisualBasic_Lab1.Form2.resources
+C:\Users\ADMIN\source\repos\VisualBasic Lab1\obj\Debug\VisualBasic_Lab1.Resources.resources
+C:\Users\ADMIN\source\repos\VisualBasic Lab1\obj\Debug\VisualBasic Lab1.vbproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\VisualBasic Lab1\obj\Debug\VisualBasic Lab1.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\VisualBasic Lab1\obj\Debug\VisualBasic Lab1.exe
+C:\Users\ADMIN\source\repos\VisualBasic Lab1\obj\Debug\VisualBasic Lab1.xml
+C:\Users\ADMIN\source\repos\VisualBasic Lab1\obj\Debug\VisualBasic Lab1.pdb
