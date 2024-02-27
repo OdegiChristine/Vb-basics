@@ -11,3 +11,4 @@ C:\Users\ADMIN\source\repos\VisualBasic Lab1\obj\Debug\VisualBasic Lab1.vbproj.C
 C:\Users\ADMIN\source\repos\VisualBasic Lab1\obj\Debug\VisualBasic Lab1.exe
 C:\Users\ADMIN\source\repos\VisualBasic Lab1\obj\Debug\VisualBasic Lab1.xml
 C:\Users\ADMIN\source\repos\VisualBasic Lab1\obj\Debug\VisualBasic Lab1.pdb
+C:\Users\ADMIN\source\repos\VisualBasic Lab1\obj\Debug\VisualBasic_Lab1.Form3.resources

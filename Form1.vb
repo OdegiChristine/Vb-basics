@@ -26,4 +26,9 @@
         Me.BackColor = Color.Red
 
     End Sub
+
+    Private Sub ComputeButton_Click(sender As Object, e As EventArgs) Handles ComputeButton.Click
+        Dim form3Instance As New Form3()
+        form3Instance.Show()
+    End Sub
 End Class

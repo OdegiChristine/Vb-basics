@@ -24,6 +24,7 @@ Partial Class Form1
     Private Sub InitializeComponent()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
+        Me.ComputeButton = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Button1
@@ -44,11 +45,21 @@ Partial Class Form1
         Me.Button2.Text = "EXIT"
         Me.Button2.UseVisualStyleBackColor = True
         '
+        'ComputeButton
+        '
+        Me.ComputeButton.Location = New System.Drawing.Point(341, 263)
+        Me.ComputeButton.Name = "ComputeButton"
+        Me.ComputeButton.Size = New System.Drawing.Size(133, 49)
+        Me.ComputeButton.TabIndex = 2
+        Me.ComputeButton.Text = "Compute"
+        Me.ComputeButton.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.ComputeButton)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
@@ -59,4 +70,5 @@ Partial Class Form1
 
     Friend WithEvents Button1 As Button
     Friend WithEvents Button2 As Button
+    Friend WithEvents ComputeButton As Button
 End Class
